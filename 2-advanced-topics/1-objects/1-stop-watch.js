@@ -1,3 +1,10 @@
+/**
+ * user browser console to test this
+ * start with creating StopWatch object =>
+ *      const sw = new StopWatch();
+ * perform all the operations on object 'sw'
+ */
+
 function StopWatch() {
   let startTime;
   let endTime;
